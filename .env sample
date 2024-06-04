@@ -1,0 +1,8 @@
+AccesskeyID = YOUR_AccesskeyID
+SecretAccessKey = YOUR_SecretAccessKey
+Region = YOUR_Region
+TopicArn = YOUR_TopicArn
+testingSMSTopic = YOUR_testingSMSTopic
+SENDER_ID = YOUR_SenderID
+PhoneNumber = YOUR_PhoneNumber
+EMAIL = YOUR_EmailAddress@gmail.com

@@ -1,0 +1,11 @@
+Setting Up AWS Configuration and IAM Credentials
+AWS Account Setup:
+
+If you haven't already, sign up for an AWS account at AWS Management Console.
+IAM User Creation:
+
+Create an IAM user with programmatic access and attach the necessary permissions for sending SMS messages using Amazon SNS. Make sure to save the access key ID and secret access key for the IAM user.
+AWS Configuration:
+
+Install the AWS CLI on your local machine if you haven't already.
+Run aws configure on your terminal and enter the access key ID, secret access key, default region, and default output format. This will set up your AWS CLI configuration.
